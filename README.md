@@ -2,7 +2,7 @@
 A project exploring ACT performances and socioeconomic factor influences. 
 
 ## Description 
-This study aims to determine if socioeconomic factors can predict school performance on the SAT or ACT. By using the average scores of schools and various socioeconomic data, including median income, linear regression models were constructed after cleaning the data. The optimal set of socioeconomic predictors for ACT scores was determined, revealing that the average ACT/SAT scores decrease as the number of students on free/reduced lunch and the rate of unemployment increases, and the percentage of adults with a college degree decreases. The study also explored the effect of ACT score requirements across different states, but found it to have minimal impact on the prediction model.
+This project aims to determine if socioeconomic factors can predict school performance on the SAT or ACT. By using the average scores of schools and various socioeconomic data, including median income, linear regression models were constructed after cleaning the data. The optimal set of socioeconomic predictors for ACT scores was determined, revealing that the average ACT/SAT scores decrease as the number of students on free/reduced lunch and the rate of unemployment increases, and the percentage of adults with a college degree decreases. The project also explored the effect of ACT score requirements across different states, but found it to have minimal impact on the prediction model.
 
 ## Requirements
 Google Colabratory 
