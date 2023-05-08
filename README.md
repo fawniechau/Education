@@ -8,15 +8,15 @@ This study aims to determine if socioeconomic factors can predict school perform
 Google Colabratory 
 
 ## Sources for the Data
-(Primary dataset)[School information data]('https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0'): 
+Primary dataset - School information data (https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0): Provides basic information about schools from the National Center for Education.  
 
-(Secondary dataset)[Edgap data]('https://www.edgap.org/#5/37.892/-96.987'): Provides information about average ACT and SAT scores for schools and relevant socioeconomic factors of areas. 
+Secondary dataset - Edgap data (https://www.edgap.org/#5/37.892/-96.987): Provides information about average ACT and SAT scores for each department off education or other public data release. 
 
-[Education Commission of the States]('https://reports.ecs.org/comparisons/high-school-graduation-requirements-02
-www.ecs.org/wp-content/uploads/State-Information-Request_End-of-Course-Exams.pdf'): Provides reports that compare educational policies across 50 states. We found 2 different reports about non-course requirements for high school graduation from 2019 and the school year 2017-2018. Even though we are working with 2016-2017 data, the 2017-2018 is a good start to learn about the states that have SAT/ACT requirements as graduation:
+### Additional Step Data Sources
+Education Commission of the States (https://reports.ecs.org/comparisons/high-school-graduation-requirements-02): Provides reports that compare educational policies across 50 states. We found 2 different reports about non-course requirements for high school graduation from 2019 and the school year 2017-2018. Even though we are working with 2016-2017 data, the 2017-2018 is a good start to learn about the states that have SAT/ACT requirements as graduation:
 
 
-EdWeek.org: provides a table with the 2016-2017 data of the states that require SAT/ACT  and other exams. 
+EdWeek.org (https://www.edweek.org/teaching-learning/which-states-require-students-to-take-the-sat-or-act): provides a table with the 2016-2017 data of the states that require SAT/ACT  and other exams. 
 
 ## Data Preparation 
 The steps taken to prepare the data for analysis are: 
